@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wladastic-autoprobemcp-badge.png)](https://mseep.ai/app/wladastic-autoprobemcp)
+
 # AutoProbeMCP - a browser for your Agent
 
 A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright.
